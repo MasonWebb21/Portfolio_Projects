@@ -4,7 +4,7 @@
 
 ## Featured Projects
 
-- **Electric Vehicle Power BI Dashboard**
+- **Electric Vehicle Power BI Dashboard** — Provided Insights for Battery Electric & Plug in Hybrid Vehicles in the Washington State area using Power BI
 
 - **English Premier League Data**
 
